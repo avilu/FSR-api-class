@@ -1,0 +1,1 @@
+//FSR - Javascript toolkit
