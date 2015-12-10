@@ -1,5 +1,6 @@
 # FSR-api-class
 # PHP-API-CLASS
+<code>
 <?php
 define("FsrPublicKey",'');
 define("FsrPrivateKey",'');
@@ -173,3 +174,4 @@ class FsrCurlApi extends FsrAPI {
 	}
 }
 ?>
+</code>
